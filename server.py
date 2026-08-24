@@ -4,7 +4,7 @@ import requests
 mcp = FastMCP("Wikipedia Server")
 
 HEADERS = {
-    "User-Agent": "WikipediaMCPAgent/1.0 (pythonpopit@gmail.com)"
+    "User-Agent": "WikipediaMCPAgent/1.0 (example@gmail.com)"
 }
 
 @mcp.tool
